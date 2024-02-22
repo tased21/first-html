@@ -1,0 +1,28 @@
+html {
+    font-size: 22px;
+}
+
+body {
+    background-color: black;
+    color: whitesmoke;
+}
+p{
+    text-align: center;
+    color: blue;
+}
+a
+{
+    align-items: center;
+    
+}
+
+
+table,
+tr,
+th,
+td {
+    border: 1px solid white;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0rem;
+}
